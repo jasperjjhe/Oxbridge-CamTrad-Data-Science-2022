@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\jaspe\Desktop\CamTrad 2022\Data Science\vm\venv
+set VIRTUAL_ENV=C:\Users\jaspe\Documents\GitHub\Oxbridge-CamTrad-Data-Science-2022\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

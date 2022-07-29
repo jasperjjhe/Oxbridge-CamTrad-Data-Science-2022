@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\jaspe\Desktop\CamTrad 2022\Data Science\vm\venv"
+VIRTUAL_ENV="C:\Users\jaspe\Documents\GitHub\Oxbridge-CamTrad-Data-Science-2022\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

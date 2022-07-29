@@ -1,0 +1,35 @@
+# name: Data_Set_1
+# attribute -- name: game, description: game number, type: numeric, precision: 0, editable: false
+# attribute -- name: score, description: game score, type: numeric, precision: 0, editable: false
+# attribute -- name: disks, description: how many disks were pushed, type: numeric, precision: 0, editable: false
+# attribute -- name: formula, description: what formula was used for autoplay, type: nominal, editable: false
+# attribute -- name: level, description: what level of the game was played, type: nominal, editable: false
+# attribute -- name: disk, description: which disk in a game, type: numeric, precision: 0, editable: false
+# attribute -- name: push, description: the amount of push given to the disk, type: numeric, precision: 1, editable: false
+# attribute -- name: startPos, description: the starting position of the disk, type: numeric, precision: 1, editable: false
+# attribute -- name: endPos, description: the disk position at end of turn, type: numeric, precision: 1, editable: false
+# attribute -- name: pad, description: the pad the disk landed on, type: nominal, editable: false
+# attribute -- name: points, description: points for this disk at time of push, type: numeric, precision: 0, editable: false
+game,score,disks,formula,level,disk,push,startPos,endPos,pad,points
+1,98,3,,Washington,1,50,15,259.9999993622775,three,50
+1,98,3,,Washington,2,57,15,294.2992576634801,,0
+1,98,3,,Washington,3,64,15,328.59867750000046,four,48
+3,0,1,,Washington,1,84,15,17.828680023131813,,0
+4,0,1,,Washington,1,78,15,397.19751389300075,,0
+5,0,1,,Washington,1,74,15,377.5998862750468,,0
+7,0,1,,Washington,1,71,15,362.89986345801714,,0
+8,97,1,,Washington,1,70,15,357.9962442279929,four,97
+10,99,4,,Washington,1,50,15,259.99767360276974,three,50
+10,99,4,,Washington,2,55,15,284.4996795241068,three,91
+10,99,4,,Washington,3,57,15,294.2989766866212,,0
+10,99,4,,Washington,4,56,15,289.39998608405796,three,99
+11,196,3,,Washington,1,56,15,289.399952490888,three,99
+11,196,3,,Washington,2,70,15,357.99988576855606,four,97
+11,196,3,,Washington,3,42,15,220.79639702235843,,0
+12,93,2,,Washington,1,41,15,215.89981397739498,two,93
+12,93,2,,Washington,2,42,15,220.79999036635974,,0
+13,384,5,,Washington,1,70,15,357.9982098057033,four,97
+13,384,5,,Washington,2,56,15,289.3994845250362,three,99
+13,384,5,,Washington,3,41,15,215.8954575459039,two,93
+13,384,5,,Washington,4,25,15,137.49775000000025,one,79
+13,384,5,,Washington,5,27,15,147.29973029592477,one,95
