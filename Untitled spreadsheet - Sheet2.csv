@@ -1,0 +1,15 @@
+Rank,Fruit fly,Human,Pea,Fly agaric,E. coli
+Domain,Eukarya,Eukarya,Eukarya,Eukarya,Bacteria
+Kingdom,Animalia,Animalia,Plantae,Fungi,-
+Phylum or division,Arthropoda,Chordata,Magnoliophyta (Tracheophyta),Basidiomycota,Pseudomonadota
+Subphylum or subdivision,Hexapoda,Vertebrata,Magnoliophytina (Euphyllophytina),Agaricomycotina,-
+Class,Insecta,Mammalia,Magnoliopsida (Equisetopsida),Agaricomycetes,Gammaproteobacteria
+Subclass,Pterygota,Theria,Rosidae (Magnoliidae),Agaricomycetidae,-
+Superorder,Panorpida,Euarchontoglires,Rosanae,-,-
+Order,Diptera,Primates,Fabales,Agaricales,Enterobacterales
+Suborder,Brachycera,Haplorrhini,Fabineae,Agaricineae,-
+Family,Drosophilidae,Hominidae,Fabaceae,Amanitaceae,Enterobacteriaceae
+Subfamily,Drosophilinae,Homininae,Faboideae,Amanitoideae,-
+Tribe,-,Hominini,Fabeae,-,-
+Genus,Drosophila,Homo,Pisum,Amanita,Escherichia
+Species,D. melanogaster,H. sapiens,P. sativum,A. muscaria,E. coli
